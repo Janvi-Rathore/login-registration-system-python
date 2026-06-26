@@ -106,7 +106,7 @@ Login-Registration-System/
 
 
 
-!\[Login Page](Screenshot/Login.png)
+!\[Login Page](screenshot/Login.png)
 
 
 
@@ -114,7 +114,7 @@ Login-Registration-System/
 
 
 
-!\[Registration Page](Screenshot/Signup.png)
+!\[Registration Page](screenshot/Signup.png)
 
 
 
@@ -122,7 +122,7 @@ Login-Registration-System/
 
 
 
-!\[Welcome Page](Screenshot/Welcome.png)
+!\[Welcome Page](screenshot/Welcome.png)
 
 
 
@@ -183,4 +183,5 @@ python login.py
 \* Add user profile management.
 
 
+```
 
