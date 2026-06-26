@@ -126,7 +126,7 @@ python login.py
 - Phone number must contain exactly 10 digits.
 - Appropriate error messages are displayed for invalid inputs and unsuccessful login attempts.
 
----
+--- 
 
 ## Future Improvements
 
