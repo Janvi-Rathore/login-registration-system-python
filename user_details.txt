@@ -1,0 +1,5 @@
+{'username': 'admin', 'password': 'admin123', 'Email': 'admin@gmail.com', 'Phone_No': '1123456789'}
+{'username': 'admin1', 'password': 'admin12', 'Email': 'admin11@gmail.com', 'Phone_No': '1111111123'}
+{'username': 'admin23', 'password': 'admin456', 'Email': 'admin23@gmail.com', 'Phone_No': '2345678910'}
+{'username': 'admin45', 'password': '123456', 'Email': 'admin45@gmail.com', 'Phone_No': '1234567890'}
+{'username': 'admin34', 'password': '1234', 'Email': 'admin34@gmail.com', 'Phone_No': '1234567890'}
